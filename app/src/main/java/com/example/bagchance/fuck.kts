@@ -1,3 +1,3 @@
 fun main () {
-    println("爛code")
+    println("老師有人線上")
 }
