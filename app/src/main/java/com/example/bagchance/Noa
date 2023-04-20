@@ -1,1 +1,7 @@
-HEY!
+package com.example.bagchance
+
+class Noa {
+    fun f1() {
+        println("hey!")
+    }
+}
