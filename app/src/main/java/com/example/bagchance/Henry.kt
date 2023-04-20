@@ -2,6 +2,6 @@ package com.example.bagchance
 
 class Henry {
     fun() {
-        println("貓咪")
+        println("關羽你的歌")
     }
 }
